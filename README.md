@@ -107,10 +107,6 @@
 
 <div align="center">
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dracula&fontFamily=&preferLogin=false"> <img  alt="cc24137's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/cc24137?cardType=github&theme=dracula&fontFamily=&preferLogin=false" alt="GitHub Stats" height="170"/> </a>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/v2/cc24137?theme=dark">
-      <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/v2/cc24137?config=config.json">
-    </picture>
 </div>
 
 ---
