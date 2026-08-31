@@ -105,7 +105,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dracula&fontFamily=&preferLogin=false"> <img  alt="cc24137's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/cc24137?cardType=github&theme=dracula&fontFamily=&preferLogin=false" alt="GitHub Stats" height="170"/> </a>
 </div>
 
