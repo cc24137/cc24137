@@ -106,10 +106,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-    <!--<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dracula&fontFamily=&preferLogin=false"> <img  alt="cc24137's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/cc24137?cardType=github&theme=dracula&fontFamily=&preferLogin=false" alt="GitHub Stats" height="170"/> </a>-->
-  <img src="https://github-readme-stats.vercel.app/api?username=cc24137&show_icons=true&theme=radial&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cc24137&layout=compact&theme=radial" alt="Most Used Languages" height="170"/>
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dracula&fontFamily=&preferLogin=false"> <img  alt="cc24137's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/cc24137?cardType=github&theme=dracula&fontFamily=&preferLogin=false" alt="GitHub Stats" height="170"/> </a>
+    <a href="https://github-stats-extended.vercel.app/api/top-langs?username=cc24137&layout=compact&langs_count=6&theme=dracula"> <img  alt="cc24137's GitHub Stats" src="https://github-stats-extended.vercel.app/api/top-langs?username=cc24137&layout=compact&langs_count=6&theme=dracula" alt="GitHub Stats" height="170"/> </a>
 </div>
+
 ---
 
 ### 📫 Contact Me!
@@ -117,7 +117,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juliopstein)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliopstein@gmail.com)
 
-<img align="right" src="./assets/meimeiContactPapyrus.png" width="180" alt="ContactMe!">
+<div align="right">
+  <img src="./assets/meimeiContactPapyrus.png" width="180" alt="ContactMe!">
+</div>
 
 ---
 
@@ -132,4 +134,6 @@
 ### 🗝️ See you later!
 Thanks for getting to know me a bit more, until next time!
 
-<img align="right" src="./assets/hachiware.png" width="180" alt="ByeBye">
+<div align="right">
+  <img src="./assets/hachiware.png" width="180" alt="ByeBye">
+</div>
