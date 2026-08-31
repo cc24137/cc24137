@@ -33,7 +33,7 @@
   ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 - **Programming Languages:**
-    
+
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -117,7 +117,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juliopstein)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliopstein@gmail.com)
 
-<div align="right">
+<div align="left">
   <img src="./assets/meimeiContactPapyrus.png" width="180" alt="ContactMe!">
 </div>
 
@@ -134,6 +134,6 @@
 ### 🗝️ See you later!
 Thanks for getting to know me a bit more, until next time!
 
-<div align="right">
+<div align="left">
   <img src="./assets/hachiware.png" width="180" alt="ByeBye">
 </div>
