@@ -117,7 +117,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliopstein@gmail.com)
 
 <div align="left">
-  <img src="./assets/meimeiContactPapyrus.png" width="180" alt="ContactMe!">
+  <img src="./assets/meimeiContact.png" width="180" alt="ContactMe!">
 </div>
 
 ---
@@ -132,7 +132,3 @@
 
 ### 🗝️ See you later!
 Thanks for getting to know me a bit more, until next time!
-
-<div align="left">
-  <img src="./assets/hachiware.png" width="180" alt="ByeBye">
-</div>
