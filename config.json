@@ -1,6 +1,6 @@
 {
     "title": "🏆 Most Used Languages 🏆",
-    "custom_image": "./assets/hachiware.png",
+    "custom_image": "https://images.steamusercontent.com/ugc/12462324270535986301/F92E97002A3C1CF3DC23C5D1DDAF239C181E5379/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
     "colors_light_theme" : {
         "title_color": "#828282",
         "text_color" : "#888888",
@@ -16,8 +16,8 @@
         "border_color": "#101010"
     },
     "v2": {
-        "v2_terminal_user": "root",
-        "v2_terminal_hostname": "debian",
+        "v2_terminal_user": "cookiebeco",
+        "v2_terminal_hostname": "mint",
         "v2_colors_light_theme":{
         "title_color": "#000000",
         "terminal_color": "#ce984c",
@@ -35,9 +35,9 @@
         "border_color": "#101010"
         },
         "custom_info": {
-        "Name": "..................... Caio Furtado",
+        "Name": "...................... Júlio Stein",
         "Country": "........................ Brazil",
-        "Favorite Languages": "...... Rust | Python"
+        "Favorite Languages": "........ C# | Python"
         },
         "ascii_type": {
         "light": "",
